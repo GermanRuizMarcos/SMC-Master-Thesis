@@ -1,23 +1,30 @@
-# Master in Sound and Music Computing
+#  Analysis of the skills acquisition process in musical improvisation: an approach based on creativity
+
+Master Thesis on Sound and Music Computing
+
 Universitat Pompeu Fabra, Barcelona (Spain)
+
 September 4th, 2017
 
-TITLE: Analysis of the skills acquisition process in musical improvisation: an approach based on creativity
 AUTHOR: Germán Ruiz Marcos
 
 SUPERVISOR: Josep María Comajuncosas
+
 CO-SUPERVISOR: Enric Guaus
 
 # Content of the project
 
 1) master-thesis-definitive.pdf
+
     - final thesis document
     
 2) instrument.rar
+
     - PD patches and subpatches of the musical interface
     - data capture bourne-shell code
     
 3) experiment1-scorebased.rar
+
     - experiment 1 csv data file
     - constituent variables plots
     - score table
@@ -25,17 +32,29 @@ CO-SUPERVISOR: Enric Guaus
     - old results
  
  4) experiments.rar
+ 
     - experiment 2 
+    
         · 10 csv data files
+        
         · python analysis codes
+        
         · txt extracted data files
+        
         · old results
+        
     - pilot experiment
+    
         · 7 csv data files
+        
         · preliminary python analysis codes
+        
     - graphics
+    
         · all participants/musicians/non-musicians plots
+        
         · python plotting codes
+        
         · final data txt files
 
 # Abstract
