@@ -14,16 +14,12 @@ CO-SUPERVISOR: Enric Guaus
 
 # Content of the project
 
-1) master-thesis-definitive.pdf
-
-    - final thesis document
-    
-2) instrument.rar
+1) instrument.rar
 
     - PD patches and subpatches of the musical interface
     - data capture bourne-shell code
     
-3) experiment1-scorebased.rar
+2) experiment1-scorebased.rar
 
     - experiment 1 csv data file
     - constituent variables plots
@@ -31,7 +27,7 @@ CO-SUPERVISOR: Enric Guaus
     - python analysis codes
     - old results
  
- 4) experiments.rar
+3) experiments.rar
  
     - experiment 2 
     
